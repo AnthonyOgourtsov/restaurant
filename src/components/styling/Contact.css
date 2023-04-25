@@ -1,0 +1,66 @@
+.contact{
+    margin-top: 60px;
+    background-image: url(https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&w=1000&q=80);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-form {
+    background-color: rgba(67, 67, 67, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    width:90%;
+    text-align: center;
+}
+.contact-form h2 {
+    margin-top:0;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+ .form-group input,
+.form-group textarea {
+border-radius: 5px;
+border: none;
+padding: 10px;
+width: 100%;
+box-sizing: border-box;
+}
+.form-group textarea {
+    height: 150px;
+}
+button[type='submit'] {
+    background-color: #ff4b2b;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button[type='submit']:hover {
+    background-color: #d13e24;
+}
+
+#message {
+    height:300px;
+    
+}
+
+.sentForm {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    font-size: 3rem;
+    transition-delay: 300ms;
+}

@@ -1,0 +1,21 @@
+/* Home.css */
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 60px;
+  background-image: url("../images/food.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.home h1 {
+color: white;
+}
+
+.home p {
+  color: white;
+ 
+}

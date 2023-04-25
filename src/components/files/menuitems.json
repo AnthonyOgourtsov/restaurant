@@ -1,0 +1,213 @@
+{"appetizers": [
+    {
+      "image": "https://www.thevegspace.co.uk/wp-content/uploads/2018/06/vegan-garlic-bread-3-1161x1536.jpg",
+      "title": "Garlic Bread",
+      "description": "Toasted bread with garlic butter spread.",
+      "price": 5.99
+    },
+    {
+      "image": "https://www.momontimeout.com/wp-content/uploads/2021/10/air-fryer-mozzarella-stick-easy-recipe-square.jpeg",
+      "title": "Mozzarella Sticks",
+      "description": "Fried cheese sticks served with marinara sauce.",
+      "price": 7.99
+    },
+    {
+      "image": "https://biteswithbri.com/wp-content/uploads/2021/07/BruschettaMozzarella-blog-9.jpg",
+      "title": "Bruschetta",
+      "description": "Toasted bread topped with diced tomatoes, garlic, and basil.",
+      "price": 6.99
+    },
+    {
+      "image": "https://bakeitwithlove.com/wp-content/uploads/2022/08/what-is-calamari-sq.jpg",
+      "title": "Calamari",
+      "description": "Fried squid served with lemon wedges and marinara sauce.",
+      "price": 10.99
+    },
+    {
+      "image": "https://www.chilesandsmoke.com/wp-content/uploads/2022/09/Campechana_Grilled-Shrimp_Featured.jpg",
+      "title": "Shrimp Cocktail",
+      "description": "Chilled shrimp served with cocktail sauce.",
+      "price": 12.99
+    }],
+	"maincourses": [{
+			"title": "Grilled Ribeye Steak",
+			"description": "12 oz. ribeye steak grilled to perfection, served with garlic mashed potatoes and sautéed vegetables.",
+			"price": 25.99,
+			"image": "https://sipbitego.com/wp-content/uploads/2022/05/Medium-Rare-Grilled-Ribeye-Steak-Recipe-Sip-Bite-Go.jpg"
+		},
+		{
+			"title": "Lobster Linguine",
+			"description": "Linguine pasta with fresh lobster meat, tossed in a white wine garlic sauce and topped with grated Parmesan acheese.",
+			"price": 29.99,
+			"image": "https://images.squarespace-cdn.com/content/v1/50106d5684aed4702b7242ed/1586796848928-KJJ3GX5M1HO2V71AZKGP/shutterstock_343016741.jpg"
+		},
+		{
+			"title": "Chicken Parmesan",
+			"description": "Breaded chicken breast topped with marinara sauce and melted mozzarella cheese, served with spaghetti.",
+			"price": 17.99,
+			"image": "https://www.allrecipes.com/thmb/J0U0wHxsY1r-I1JUJ5jXcwCnzRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223042-Chicken-Parmesan-mfs_001-7ab952346edc4b2da36f3c0259b78543.jpg"
+		},
+		{
+			"title": "Blackened Salmon",
+			"description": "Fresh salmon fillet blackened with Cajun spices, served with rice pilaf and roasted vegetables.",
+			"price": 22.99,
+			"image": "https://whatmollymade.com/wp-content/uploads/2021/08/best-blackened-salmon.jpg"
+		},
+		{
+			"title": "Vegetable Curry",
+			"description": "A medley of vegetables simmered in a coconut curry sauce, served with basmati rice.",
+			"price": 14.99,
+			"image": "https://www.acouplecooks.com/wp-content/uploads/2020/02/Vegetable-Curry-001.jpg"
+		},
+		{
+			"title": "Beef Stroganoff",
+			"description": "Tender strips of beef in a creamy mushroom sauce, served over egg noodles.",
+			"price": 18.99,
+			"image": "https://www.allrecipes.com/thmb/2NbdoRyrrbq8B-jDY7EmQtCwSEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16311-simple-beef-stroganoff-beauty-106-4x3-b21299a7147547439f960d074cd7c208.jpg"
+		},
+		{
+			"title": "Fish and Chips",
+			"description": "Beer-battered cod fillet served with French fries and tartar sauce.",
+			"price": 16.99,
+			"image": "https://static.wixstatic.com/media/00cfc5_982fb82bc0cd42e080c7478fa9663c36~mv2.jpeg/v1/fill/w_1300,h_822,al_c/00cfc5_982fb82bc0cd42e080c7478fa9663c36~mv2.jpeg"
+		},
+		{
+			"title": "Pork Chops",
+			"description": "Grilled pork chops served with apple chutney and roasted sweet potatoes.",
+			"price": 19.99,
+			"image": "https://www.dinneratthezoo.com/wp-content/uploads/2017/05/baked-boneless-pork-chops-final-2.jpg"
+
+		},
+		{
+			"title": "Shrimp Alfredo",
+			"description": "Succulent shrimp in a creamy Alfredo sauce, served with fettuccine pasta.",
+			"price": 21.99,
+			"image": "https://www.budgetbytes.com/wp-content/uploads/2022/01/Shrimp-Alfredo-Pasta-bowl2.jpg"
+
+		},
+		{
+			"title": "Beef Brisket",
+			"description": "Slow-cooked beef brisket in a barbecue sauce, served with cornbread and coleslaw.",
+			"price": 23.99,
+			"image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/03/Smoked-brisket-a9a5c4e.jpg"
+		}
+	],
+	"desserts": [{
+			"title": "Cheesecake",
+			"description": "New York-style cheesecake with a graham cracker crust and raspberry sauce.",
+			"price": 7.99,
+			"image": "https://www.onceuponachef.com/images/2017/12/cheesecake.jpg"
+		},
+		{
+			"title": "Tiramisu",
+			"description": "Layers of coffee-soaked ladyfingers and mascarpone cream, dusted with cocoa powder.",
+			"price": 9.99,
+			"image": "https://www.cookingclassy.com/wp-content/uploads/2022/08/tiramisu-17.jpg"
+		},
+		{
+			"title": "Banana Split",
+			"description": "A classic dessert featuring scoops of vanilla, chocolate, and strawberry ice cream, topped with bananas, whipped cream, and chocolate sauce.",
+			"price": 8.99,
+			"image": "https://www.twopeasandtheirpod.com/wp-content/uploads/2021/07/banana-split-9.jpg"
+		},
+		{
+			"title": "Key Lime Pie",
+			"description": "Tart and creamy key lime filling in a buttery graham cracker crust, topped with whipped cream.",
+			"price": 6.99,
+			"image": "https://www.livewellbakeoften.com/wp-content/uploads/2021/05/Key-Lime-Pie-NEW-7s.jpg"
+		},
+		{
+			"title": "Creme Caramel",
+			"description": "A silky custard topped with a layer of caramel sauce.",
+			"price": 7.99,
+			"image": "https://www.madaboutmacarons.com/wp-content/uploads/2022/02/French-creme-caramel-recipe-vanilla.jpg"
+		},
+		{
+			"title": "New York Cheesecake",
+			"description": "Classic creamy cheesecake with a graham cracker crust.",
+			"price": 7.99,
+			"image": "https://www.thespruceeats.com/thmb/HM3X8w38eMVo0Lejx4GLvGHZ4dM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gluten-free-new-york-cheesecake-1450985-hero-01-dc54f9daf38044238b495c7cefc191fa.jpg"
+		},
+		{
+			"title": "Key Lime Pie",
+			"description": "Tangy and sweet pie made with fresh key lime juice and a graham cracker crust.",
+			"price": 6.99,
+			"image": "https://www.womansworld.com/wp-content/uploads/2019/08/key-lime-pie.jpg"
+		},
+		{
+			"title": "Red Velvet Cake",
+			"description": "Moist and fluffy cake with a hint of cocoa, topped with cream cheese frosting.",
+			"price": 7.99,
+			"image": "https://i.ytimg.com/vi/dFcTfEWa_tw/maxresdefault.jpg"
+		},
+		{
+			"title": "Apple Crisp",
+			"description": "Warm and comforting dessert made with tender apples and a crispy oat topping, served with vanilla ice cream.",
+			"price": 6.99,
+			"image": "https://onedishkitchen.com/wp-content/uploads/2018/11/apple-crisp-one-dish-kitchen-2500-square.jpg"
+		}
+	],
+	"drinks": [{
+			"title": "Margarita",
+			"description": "Tequila, lime juice, and triple sec served on the rocks with a salt rim.",
+			"price": 9.99,
+			"image": "https://www.acouplecooks.com/wp-content/uploads/2020/03/Margarita-026.jpg"
+		},
+		{
+			"title": "Old Fashioned",
+			"description": "Bourbon, simple syrup, and bitters served over ice with an orange peel.",
+			"price": 10.99,
+			"image": "https://i.imgur.com/Kc8p9GW.png"
+		},
+		{
+			"title": "Cosmopolitan",
+			"description": "Vodka, cranberry juice, triple sec, and lime juice shaken and strained into a chilled martini glass.",
+			"price": 8.99,
+			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cosmopolitan_(5076906532).jpg"
+		},
+		{
+			"title": "Mojito",
+			"description": "White rum, lime juice, simple syrup, mint leaves, and soda water served over ice.",
+			"price": 7.99,
+			"image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/07/mojito.jpg"
+		},
+		{
+			"title": "Gin and Tonic",
+			"description": "Gin and tonic water served over ice with a lime wedge.",
+			"price": 8.99,
+			"image": "https://www.garnishwithlemon.com/wp-content/uploads/2021/02/Elderflower-Gin-Tonic-featured-image.jpg"
+		},
+		{
+			"title": "Moscow Mule",
+			"description": "Vodka, lime juice, and ginger beer served over ice in a copper mug.",
+			"price": 8.99,
+			"image": "https://www.thewinecellargroup.com/wp-content/uploads/2019/09/mule.jpg"
+		},
+		{
+			"title": "Piña Colada",
+			"description": "Rum, pineapple juice, and coconut cream blended with ice and served in a tropical glass.",
+			"price": 9.99,
+			"image": "https://www.culinaryhill.com/wp-content/uploads/2021/12/Pin%CC%83a-Colada-Culinary-Hill-1200x800-1.jpg"
+		},
+		{
+			"title": "Sangria",
+			"description": "Red or white wine, brandy, and fruit juices mixed with fresh fruit and served over ice.",
+			"price": 7.99,
+			"image": "https://i.imgur.com/4XlbTLY.jpg"
+
+		},
+		{
+			"title": "Whiskey Sour",
+			"description": "Bourbon, lemon juice, and sugar shaken and served over ice with a cherry and orange slice.",
+			"price": 9.99,
+			"image": "https://hips.hearstapps.com/hmg-prod/images/20191204-ginger-lime-whiskey-sour-delish-ehg-5895-1585772908.jpg"
+		}
+	]
+}
+
+
+
+
+
+
+

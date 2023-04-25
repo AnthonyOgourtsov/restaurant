@@ -1,0 +1,50 @@
+/* Navbar.css */
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  background-color: rgba(247, 247, 247, );
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.navbar-links {
+  color: white;
+  display: flex; 
+}
+
+.navbar-link {
+  margin-right: 20px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.navbar-link:hover {
+  color: #ff0000;
+}
+
+.active {
+  color: #ff0000;
+  border-bottom: 2px solid #ff0000;
+}
+
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style-type: none;
+}

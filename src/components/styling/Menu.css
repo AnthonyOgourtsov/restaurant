@@ -1,0 +1,9 @@
+.menu-page{
+    padding-top: 60px;
+}
+
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
