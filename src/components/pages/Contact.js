@@ -36,7 +36,7 @@ function Contact() {
     <div className='contact'>
       <div className="contact-form">
         <h2>Contact Us</h2>
-      {showForm ? <form 
+      {showForm ? (<form 
         ref={form}
         onSubmit={handleSubmit}
         method="POST"
@@ -57,7 +57,7 @@ function Contact() {
             <button className="submit">Submit</button>
         </form>
         ) : (
-            <form>Thank you!</form>
+            <div>Thank you!</div>
             )}
       </div>
     </div>
